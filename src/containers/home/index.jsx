@@ -9,7 +9,7 @@ const Home = () => {
     
 
     const handleNavigateToContactPage = ()=>{
-        navigate('./contact')
+        navigate('./about')
 
     }
 
